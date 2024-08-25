@@ -90,8 +90,6 @@ parseJSON("user: captainhackerguy, skins: 1", "./data.json")
 
 You can `add/remove values` if you want its your choice!
 
-Fun fact: You can use the `Roblox API` (examples in [index.html](https://github.com/CaptainHackerGuy/RobloxAuthentication/blob/main/index.html)) to import all the friends and friend count! I'm using this for JSONs, you can mess around with it if you want.
-
 ```javascript
 
 parseJSON("user: dr, optic: halov2", "./data2.json")
@@ -128,4 +126,4 @@ parseJSON("user: captainhackerguy, val1: value, val2: value", path) // You can a
 
 ## License
 
-This project is licensed under the MIT License. See the [LICENSE](https://github.com/CaptainHackerGuy/loguser-data#LICENSE) file for details.
+This project is licensed under the MIT License. See the [LICENSE](https://github.com/CaptainHackerGuy/loguser-data?tab=MIT-1-ov-file) file for details.
