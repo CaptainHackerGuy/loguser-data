@@ -1,0 +1,24 @@
+{
+    "name": "loguser-data",
+    "version": "2.4.5",
+    "description": "A simple module to log user data to a JSON file",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/CaptainHackerGuy/JSONparser-VIA-Exteral-Apps"
+    },
+    "keywords": [
+        "logging",
+        "user-data",
+        "json"
+    ],
+    "author": "CaptainHackerGuy",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/CaptainHackerGuy/JSONparser-VIA-Exteral-Apps/issues"
+    },
+    "homepage": "https://github.com/CaptainHackerGuy/JSONparser-VIA-Exteral-Apps#readme"
+}
