@@ -128,4 +128,4 @@ parseJSON("user: captainhackerguy, val1: value, val2: value", path) // You can a
 
 ## License
 
-This project is licensed under the MIT License. See the [LICENSE](https://github.com/CaptainHackerGuy/JSONparser-VIA-Exteral-Apps#LICENSE) file for details.
+This project is licensed under the MIT License. See the [LICENSE](https://github.com/CaptainHackerGuy/loguser-data#LICENSE) file for details.
